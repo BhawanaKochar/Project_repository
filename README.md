@@ -1,2 +1,0 @@
-# hacktoberfest_repository
-HACKTOBERFEST
