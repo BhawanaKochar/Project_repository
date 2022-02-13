@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <widget xmlns  = "http://www.w3.org/ns/widgets"
+      xmlns:gap   = "http://phonegap.com/ns/1.0"
+      id          = "com.SHREE.dhyaan"
+      version     = "1.0.0">
+
+   <name>SHREE</name>
+
+   <description>
+      BHAKTI APP
+   </description>
+
+   <author href="https://www.linkedin.com/in/bhawana-kochar-693120224"
+href=""
+       email="bhawanakochar692.hitcse2020@gmail.com">
+       Bhawana Kochar
+   </author>
+   
+    <preference name="phonegap-version" value="3.6.3" />
+
+   <gap:platforms>
+       <gap:platform name="android" minVersion="2.0" />
+   </gap:platforms>
+
+   <icon src="icon.png" />    
+   <gap:splash src="splash.png" />
+   
+
+   <preference name="splash-screen-duration" value="8000" />
+   
+   
+ </widget>

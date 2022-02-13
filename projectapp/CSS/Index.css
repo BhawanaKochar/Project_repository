@@ -1,0 +1,77 @@
+.list{
+	overflow:auto;	
+	margin-right:10px;
+}
+.herb_img{
+	max-width:100%;
+	max-height:100%;	
+	border:#313030 thin solid;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;	
+}
+.desc{
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size:29px;
+	margin:8px;
+	text-align:justify;	
+    text-justify:inter-cluster;	
+}
+
+.imglabel{
+	max-width:1002px;
+	height:22px;	
+	margin-left:5px;
+	margin-right:5px;
+	border:#F9F8AD;
+	border-top-left-radius:4px;
+	border-top-right-radius:4px;
+	text-align:center;
+	background-color:#FFEE35;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	color:#000000;
+	font-size:14px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.app_title{
+	text-align:center;
+	font-size:68px;
+	font-weight:bolder;
+	font-style: italic;
+	font-variant-east-asian: normal;
+	font-family:unifrakturmaguntia;
+	font-display: fallback;
+	color:#E8AB2E;
+}
+.front_image{
+	max-width:85%;
+	max-height:85%;	
+}
+.menu_cls{
+	max-width:100%;
+	max-height:35%;
+	background-image:url(images/menu_bg.jpeg);
+	background-position: bottom;
+	background-repeat:no-repeat;
+}
+.menu_cls_sub{
+	max-width:100%;
+	max-height:100%;
+	
+	
+}
+.sml_btn{
+  
+   margin:0 auto;
+   color: aliceblue;
+	
+}
+
+.button{
+	margin: 20px;
+	background-color: #E4E4E4;
+}

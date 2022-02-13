@@ -1,0 +1,1 @@
+Implementing Simple Linear Regrassion using numpy , pandas and matplot lib in Deep learning
